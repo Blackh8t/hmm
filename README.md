@@ -4,6 +4,7 @@ A terminal-first helper toolkit for Linux web servers running NGINX, Apache, Cer
 
 This fork/continuation adds a cleaner single-key interface, improved terminal visuals, process-aware port inspection, simplified log viewing, wildcard SSL helpers, and a basic user process manager.
 
+![HMM UI Screenshot](https://raw.githubusercontent.com/Blackh8t/hmm/main/hmm-ui.png)
 ---
 
 ## Credit / Attribution
